@@ -1,0 +1,17 @@
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\bin\Debug\net7.0\Producer.exe
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\bin\Debug\net7.0\Producer.deps.json
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\bin\Debug\net7.0\Producer.runtimeconfig.json
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\bin\Debug\net7.0\Producer.dll
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\bin\Debug\net7.0\Producer.pdb
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.csproj.AssemblyReference.cache
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.AssemblyInfoInputs.cache
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.AssemblyInfo.cs
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.csproj.CopyComplete
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.dll
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\refint\Producer.dll
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.pdb
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\Producer.genruntimeconfig.cache
+C:\Users\Computador\Documents\Program\DevInHouse\Módulo 3\M3S03\trello\ProducerConsumerRabbitMQ\Producer\obj\Debug\net7.0\ref\Producer.dll

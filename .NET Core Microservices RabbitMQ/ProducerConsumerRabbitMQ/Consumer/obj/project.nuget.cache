@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HaWBSFctGpYxoVgCM4EYohLUzoC3nyR3TSS4Sp0mlQ9Z1mxj2agH+S1/mHDMFeuYRtD6u7OupOAU9G2f/n1s1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Computador\\Documents\\Program\\DevInHouse\\Módulo 3\\M3S03\\trello\\ProducerConsumerRabbitMQ\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Computador\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Computador\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Computador\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
